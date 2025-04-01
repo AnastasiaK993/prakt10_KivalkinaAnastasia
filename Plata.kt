@@ -1,6 +1,6 @@
 class Plata:Operator(), Vivodnterface{
     override fun Print1() {
-        println("здорово жить")
+        println("${name} является выгодным предожением!приобретайте по ${price} за минуту гласило обьявление")
     }
      var P=true
     override fun Q():Double
