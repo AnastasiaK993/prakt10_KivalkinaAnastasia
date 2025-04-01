@@ -6,9 +6,9 @@ fun main ()
 
        // operator[i]:Plata=Plata()
       var  operator:Plata=Plata()
-        operator.Print1()
         operator.Vvod()
         operator.Q()
         operator.Print()
+        operator.Print1()
     }
 }
